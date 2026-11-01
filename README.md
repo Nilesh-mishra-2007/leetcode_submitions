@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/1672-richest-customer-wealth) |
@@ -62,8 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
