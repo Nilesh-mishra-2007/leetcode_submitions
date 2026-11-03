@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
