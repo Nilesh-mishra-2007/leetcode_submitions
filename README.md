@@ -83,13 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
