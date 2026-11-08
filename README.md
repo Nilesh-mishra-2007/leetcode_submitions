@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mishranilesh33020-cpu/leetcode_submitions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
